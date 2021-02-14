@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+h1, p, h2, body, html, button, a, Link, .navbar-brand, h3 {
+    font-family: "Inter" !important;
+}
+
+body, html {
+    background-color: #F9F9F9 !important;
+}
+
+h1, h2, .navbar-brand {
+    font-weight: bold !important;
+}
+
+.nav-item {
+    text-decoration: underline;
+}
+
+.Row {
+    text-align: center !important;
+}
+
+h1 {
+    font-size: 65px !important;
+}
+
+h2 {
+    font-size: 50px !important;
+}
+
+p {
+    font-size: 25px !important;
+}
+
+Image {
+    display: block !important;
+    margin-left: auto !important; 
+    margin-right: auto !important;
+}
+
+.main {
+    padding-top: 3% !important;
+    padding-left: 5% !important;
+    padding-right: 5% !important;
+    padding-bottom: 2% !important;
+    text-align: center !important;
+}
+
+.subheader {
+    padding-top: 2% !important;
+    padding-left: 5% !important;
+    padding-right: 5% !important;
+    padding-bottom: 2% !important;
+    text-align: center !important;
+}
+
+.footer-div {
+    padding-top: 1% !important;
+    padding-left: 5% !important;
+    padding-right: 5% !important;
+    text-align: center !important;
+}
+
+.footer {
+    font-size: 15px !important;
+}
+
+.align-left {
+    text-align: left !important;
+    vertical-align: center !important;
+    margin-top: 5% !important;
+}
+
+.align-right {
+    text-align: right !important;
+    margin-top: 5% !important;
+}
+
+.description {
+    font-size: 18px !important;
+}
